@@ -12,21 +12,28 @@
 
 **Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+## Day 2: Tuesday March 19, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+![DAY 1](/img/d002.png)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I started the morning browsing through Medium and found a great read by [Austin Tackaberry](https://medium.freecodecamp.org/@austintackaberry) on [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847).
+    * I did continue with [freeCodeCamp](https://www.freecodecamp.org/) and spent some time there.
+    * I also started [Harvard's CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) course in Computer Science on [edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/).
+    * Worked on TimeTracking app - Continue work on DB conectrions on the FrontEnd, state and data management and interactivity.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** As Austin said it in his article, and I couldn't agree more, I need to have a goal! So I set my goal to be: __Get a software engineering job within one year with the same or better salary than I am making right now__ . So, for now I will follow his plan and try to find some meetups in my city and start attending them. Also as I had already started [freeCodeCamp](https://www.freecodecamp.org/) some time ago, I will try to include it in my daily routine. Also I think I might go through with taking [Harvard's CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) on [edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course as a refresher - since the last time I learned this was a long time ago on colledge in 1998-2000.
 
+**Link to twitter:** [DAY 2](https://twitter.com/dmilojkovic76/status/1108212664696795136)
 
-### Day 1: June 27, Monday
+**Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
+
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link to twitter:** [DAY X](some link to twitter)
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
