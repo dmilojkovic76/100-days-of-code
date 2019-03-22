@@ -16,9 +16,9 @@
 ## Day 2: Tuesday March 19, 2019
 
 **Today's Progress**: I started the morning browsing through Medium and found a great read by [Austin Tackaberry](https://medium.freecodecamp.org/@austintackaberry) on [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847).
-    * I did continue with [freeCodeCamp](https://www.freecodecamp.org/) and spent some time there.
-    * I also started [Harvard's CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) course in Computer Science on [edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/).
-    * Worked on TimeTracking app - Continue work on DB conectrions on the FrontEnd, state and data management and interactivity.
+* I did continue with [freeCodeCamp](https://www.freecodecamp.org/) and spent some time there.
+* I also started [Harvard's CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) course in Computer Science on [edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/).
+* Worked on TimeTracking app - Continue work on DB conectrions on the FrontEnd, state and data management and interactivity.
 
 **Thoughts:** As Austin said it in his article, and I couldn't agree more, I need to have a goal! So I set my goal to be: __Get a software engineering job within one year with the same or better salary than I am making right now__ . So, for now I will follow his plan and try to find some meetups in my city and start attending them. Also as I had already started [freeCodeCamp](https://www.freecodecamp.org/) some time ago, I will try to include it in my daily routine. Also I think I might go through with taking [Harvard's CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) on [edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) course as a refresher - since the last time I learned this was a long time ago on colledge in 1998-2000.
 
@@ -32,8 +32,9 @@
 ![DAY 3](/img/d003.jpeg)
 
 **Today's Progress**:
-    * I did continue with [freeCodeCamp](https://www.freecodecamp.org/) nd finished the Applied Visual Design Challenges.
-    * Did not have time to work on TimeTracking app but I will double the effort on Day 4.
+* I did continue with [freeCodeCamp](https://www.freecodecamp.org/) and finished the Applied Visual Design Challenges.
+* Finished Week 0 and Problem 0 of [cs50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) on [edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+* Did not have time to work on TimeTracking app but I will double the effort on Day 4.
 
 **Thoughts:** I am realising this will be dificult on some days as this one was. I was at work and after work meetings 8am-9pm non-stop and I really did not have any more energy to learn and code for an hour+. But I overcame it and did it anyways!!!
 
@@ -47,10 +48,10 @@
 ![DAY 4](/img/d004.png)
 
 **Today's Progress**:
-    * Continued with [freeCodeCamp](https://www.freecodecamp.org/) for a little bit.
-    * Workef on TimeTracking app untill 5am. Have to be at work in 4 hours. Huh....
+* Continued with [freeCodeCamp](https://www.freecodecamp.org/) for a little bit.
+* Workef on TimeTracking app untill 5am. Have to be at work in 4 hours. Huh....
 
-**Thoughts:** I was going back and forth between #backend and #frontend, consolidating #API calls and server responses to make it more unified. Incorporated #Vuex store in all active pages, so Logging In, Signing Up, Signing Out, Dashboard and DB to state relations all work.
+**Thoughts:** I was constantly going back and forth between #backend and #frontend, consolidating #API calls and server responses to make it more unified. I seem to be loosing a lot of time in these scenarios. I incorporated #Vuex store in all active pages, so Logging In, Signing Up, Signing Out, Dashboard and DB to state relations all work. I know this is probably an overkill but it's for practice and learning so...
 
 **Link to twitter:** [DAY 4](https://twitter.com/dmilojkovic76/status/1108954119648116736)
 
@@ -62,8 +63,8 @@
 ![DAY 5](/img/d005.png)
 
 **Today's Progress**:
-    * Continued with [freeCodeCamp](https://www.freecodecamp.org/) and finished Applied Accessibility and Responsive Web Design challenges.
-    * Continued with CS50x
+* Continued with [freeCodeCamp](https://www.freecodecamp.org/) and finished Applied Accessibility and Responsive Web Design challenges.
+* Continued on to Week 1 [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) on [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 **Thoughts:** 
 
