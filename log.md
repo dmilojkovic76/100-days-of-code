@@ -12,9 +12,8 @@
 
 **Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
 
-## Day 2: Tuesday March 19, 2019
 
-![DAY 1](/img/d002.png)
+## Day 2: Tuesday March 19, 2019
 
 **Today's Progress**: I started the morning browsing through Medium and found a great read by [Austin Tackaberry](https://medium.freecodecamp.org/@austintackaberry) on [How I went from newbie to Software Engineer in 9 months while working full time](https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847).
     * I did continue with [freeCodeCamp](https://www.freecodecamp.org/) and spent some time there.
@@ -27,14 +26,32 @@
 
 **Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
 
-<!-- ### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+## Day 3: Wednesday March 20, 2019
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+![DAY 3](/img/d003.jpeg)
 
-**Link to twitter:** [DAY X](some link to twitter)
+**Today's Progress**:
+    * I did continue with [freeCodeCamp](https://www.freecodecamp.org/) nd finished the Applied Visual Design Challenges.
+    * Did not have time to work on TimeTracking app but I will double the effort on Day 4.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Thoughts:** I am realising this will be dificult on some days as this one was. I was at work and after work meetings 8am-9pm non-stop and I really did not have any more energy to learn and code for an hour+. But I overcame it and did it anyways!!!
+
+**Link to twitter:** [DAY 3](https://twitter.com/dmilojkovic76/status/1108647503895953410)
+
+**Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
+
+
+## Day 4: Thursday March 21, 2019
+
+![DAY 4](/img/d004.png)
+
+**Today's Progress**:
+    * Continued with [freeCodeCamp](https://www.freecodecamp.org/) for a little bit.
+    * Workef on TimeTracking app untill 5am. Have to be at work in 4 hours. Huh....
+
+**Thoughts:** I was going back and forth between #backend and #frontend, consolidating #API calls and server responses to make it more unified. Incorporated #Vuex store in all active pages, so Logging In, Signing Up, Signing Out, Dashboard and DB to state relations all work.
+
+**Link to twitter:** [DAY 4](https://twitter.com/dmilojkovic76/status/1108954119648116736)
+
+**Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
