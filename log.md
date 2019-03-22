@@ -55,3 +55,18 @@
 **Link to twitter:** [DAY 4](https://twitter.com/dmilojkovic76/status/1108954119648116736)
 
 **Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
+
+
+## Day 5: Friday March 22, 2019
+
+![DAY 5](/img/d005.png)
+
+**Today's Progress**:
+    * Continued with [freeCodeCamp](https://www.freecodecamp.org/) and finished Applied Accessibility and Responsive Web Design challenges.
+    * Continued with CS50x
+
+**Thoughts:** 
+
+**Link to twitter:** [DAY 4]()
+
+**Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
