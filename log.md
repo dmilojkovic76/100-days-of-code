@@ -79,3 +79,33 @@ For Authentication and SignUp/LogIn stuff I found that [Coding Garden with CJ](h
 **Link to twitter:** [DAY 5](https://twitter.com/dmilojkovic76/status/1109288331022647296)
 
 **Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
+
+## Day 6: Saturday March 23, 2019
+
+
+**Today's Progress:**
+* Continued with [freeCodeCamp](https://www.freecodecamp.org/).
+* Finished Week 1 [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) on [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) Problem Task 1 and passed with submitted my solutions.
+
+**Thoughts:**
+I covered a lot of ground on [freeCodeCamp](https://www.freecodecamp.org/) with challenges and I'm looking forward to moving to projects.
+So far, the problems on [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) were not difficult at all. But I failed to understand if I was supposed to use only the material from lectures or was I free to explore for myself and use that as well. In any way I passed but for the next task I will probably use more resouces as needed.
+
+**Link to twitter:** [DAY 6](https://twitter.com/dmilojkovic76/status/1110142300938821632)
+
+**Link to work:** 
+
+## Day 7: Sunday March 24, 2019
+
+
+**Today's Progress:**
+* Continued with [freeCodeCamp](https://www.freecodecamp.org/).
+* Finished Week 1 [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) on [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) Problem Task 1 and passed with submitted my solutions.
+
+**Thoughts:**
+I covered a lot of ground on [freeCodeCamp](https://www.freecodecamp.org/) with challenges and I'm looking forward to moving to projects.
+So far, the problems on [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) were not difficult at all. But I failed to understand if I was supposed to use only the material from lectures or was I free to explore for myself and use that as well. In any way I passed but for the next task I will probably use more resouces as needed.
+
+**Link to twitter:** [DAY 7](https://twitter.com/dmilojkovic76/status/1110142300938821632)
+
+**Link to work:** 
