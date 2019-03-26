@@ -80,6 +80,8 @@ For Authentication and SignUp/LogIn stuff I found that [Coding Garden with CJ](h
 
 **Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
 
+
+
 ## Day 6: Saturday March 23, 2019
 
 
@@ -93,7 +95,7 @@ So far, the problems on [CS50x](https://online-learning.harvard.edu/course/cs50-
 
 **Link to twitter:** [DAY 6](https://twitter.com/dmilojkovic76/status/1110142300938821632)
 
-**Link to work:** 
+**Link to work:**
 
 ## Day 7: Sunday March 24, 2019
 
@@ -108,4 +110,20 @@ So far, the problems on [CS50x](https://online-learning.harvard.edu/course/cs50-
 
 **Link to twitter:** [DAY 7](https://twitter.com/dmilojkovic76/status/1110142300938821632)
 
-**Link to work:** 
+**Link to work:**
+
+
+## Day 8: Monday March 25, 2019
+
+
+**Today's Progress:**
+* Continued to Week 2 of [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) on [edX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) and preparing for Problem Task 2.
+* Added Reports page to TimeTracking app to act as a log and show users previous clock-ins.
+
+**Thoughts:**
+Debugging deffenetlty takes more time than I like!
+![DAY ](/img/d008-debugging.png)
+
+**Link to twitter:** [DAY 8](https://twitter.com/dmilojkovic76/status/1110437957616484352)
+
+**Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
