@@ -127,3 +127,18 @@ Debugging deffenetlty takes more time than I like!
 **Link to twitter:** [DAY 8](https://twitter.com/dmilojkovic76/status/1110437957616484352)
 
 **Link to work:** [TimeTracking App](https://github.com/dmilojkovic76/timetracking_app)
+
+
+
+## Day 9: Tuesday March 26, 2019
+
+
+**Today's Progress:**
+* Made very little progress today. I almost skipped the day, but eventually, somehow managed to get something done. 💪 I worked on OAuth and user sessions but I was so tired I don't think I'll remember anything. 😕
+
+**Thoughts:**
+Work is definitely getting in the way.
+
+**Link to twitter:** [DAY 9](https://twitter.com/dmilojkovic76/status/1110786644913852417)
+
+**Link to work:**
