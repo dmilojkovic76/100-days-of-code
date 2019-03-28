@@ -142,3 +142,18 @@ Work is definitely getting in the way.
 **Link to twitter:** [DAY 9](https://twitter.com/dmilojkovic76/status/1110786644913852417)
 
 **Link to work:**
+
+
+
+## Day 10: Wednesday March 27, 2019
+
+
+**Today's Progress:**
+* Finished with Responsive Web Design course on [freeCodeCamp](https://www.freecodecamp.org/) and started with submitting test projects. Submitted a Tribute page project and moving on to the Survey project. 
+
+**Thoughts:**
+Work is still getting in the way.
+
+**Link to twitter:** [DAY 10](https://twitter.com/dmilojkovic76/status/1111227176106500096)
+
+**Link to work:** [A Tribute Page](https://codepen.io/dmilojkovic76/pen/xBomqe)
