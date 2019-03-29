@@ -149,7 +149,7 @@ Work is definitely getting in the way.
 
 
 **Today's Progress:**
-* Finished with Responsive Web Design course on [freeCodeCamp](https://www.freecodecamp.org/) and started with submitting test projects. Submitted a Tribute page project and moving on to the Survey project. 
+* Finished with Responsive Web Design course on [freeCodeCamp](https://www.freecodecamp.org/) and started with submitting test projects. Submitted a Tribute page project and moving on to the Survey project.
 
 **Thoughts:**
 Work is still getting in the way.
@@ -157,3 +157,18 @@ Work is still getting in the way.
 **Link to twitter:** [DAY 10](https://twitter.com/dmilojkovic76/status/1111227176106500096)
 
 **Link to work:** [A Tribute Page](https://codepen.io/dmilojkovic76/pen/xBomqe)
+
+
+## Day 11: Thursday March 28, 2019
+
+![DAY 11](/img/d011.png)
+
+**Today's Progress:**
+* Submitted a Survey page project and moving on to the Product Landing Page project.
+
+**Thoughts:**
+I was advised to also try [education-ecosystem](https://www.education-ecosystem.com/projects) projects. I think I will give them a try in this run, before the next course.
+
+**Link to twitter:** [DAY 11](https://twitter.com/dmilojkovic76/status/1111460363160166403)
+
+**Link to work:** [Survey Form](https://codepen.io/dmilojkovic76/full/PLMYJe)
