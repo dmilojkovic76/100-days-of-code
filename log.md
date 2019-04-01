@@ -172,3 +172,17 @@ I was advised to also try [education-ecosystem](https://www.education-ecosystem.
 **Link to twitter:** [DAY 11](https://twitter.com/dmilojkovic76/status/1111460363160166403)
 
 **Link to work:** [Survey Form](https://codepen.io/dmilojkovic76/full/PLMYJe)
+
+
+## Day 12 - 15: Friday March 29 - Monday April 1, 2019
+
+
+**Period's Progress:**
+* I've been taking more [CS50x](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) and doing Algorithms (sorting and searching) in this period. Submitting my solution to Caesar's cypher and Vigenère’s cipher.
+
+**Thoughts:**
+
+
+**Link to twitter:** [DAY 15](https://twitter.com/dmilojkovic76/status/1112849324906561536)
+
+**Link to work:**
