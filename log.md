@@ -186,3 +186,20 @@ I was advised to also try [education-ecosystem](https://www.education-ecosystem.
 **Link to twitter:** [DAY 15](https://twitter.com/dmilojkovic76/status/1112849324906561536)
 
 **Link to work:**
+
+
+## Day 16 - 20: Friday April 2 - Monday April 5, 2019
+
+![DAY 20](/img/d020.png)
+
+
+**Period's Progress:**
+* I've been doing more HTML & CSS practices with refactoring what I've done for freeCodeCamp and finishing "Product Landing Page" project.
+
+**Thoughts:**
+I need to get better at posting every day!
+
+
+**Link to twitter:** [DAY 20](https://twitter.com/dmilojkovic76/status/1114392203638509569)
+
+**Link to work:** [Product Landing Page for a Fictional Gym](https://codepen.io/dmilojkovic76/full/gyaYNr)
