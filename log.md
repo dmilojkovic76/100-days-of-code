@@ -188,7 +188,7 @@ I was advised to also try [education-ecosystem](https://www.education-ecosystem.
 **Link to work:**
 
 
-## Day 16 - 20: Friday April 2 - Monday April 5, 2019
+## Day 16 - 20: Tuesday April 2 - Friday April 5, 2019
 
 ![DAY 20](/img/d020.png)
 
@@ -203,3 +203,20 @@ I need to get better at posting every day!
 **Link to twitter:** [DAY 20](https://twitter.com/dmilojkovic76/status/1114392203638509569)
 
 **Link to work:** [Product Landing Page for a Fictional Gym](https://codepen.io/dmilojkovic76/full/gyaYNr)
+
+
+## Day 21: Saturday April 7, 2019
+
+![DAY 21](/img/d021.png)
+
+
+**Period's Progress:**
+* Finished "Technical Documentation Project" for freeCodeCamp.
+
+**Thoughts:**
+
+
+
+**Link to twitter:** [DAY 21](hhttps://twitter.com/dmilojkovic76/status/1114718420921200640)
+
+**Link to work:** [Technical Documentatin Page for Vue.JS](https://codepen.io/dmilojkovic76/full/JVKpPG)
