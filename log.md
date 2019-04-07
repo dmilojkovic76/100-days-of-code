@@ -210,7 +210,7 @@ I need to get better at posting every day!
 ![DAY 21](/img/d021.png)
 
 
-**Period's Progress:**
+**Today's Progress:**
 * Finished "Technical Documentation Project" for freeCodeCamp.
 
 **Thoughts:**
@@ -220,3 +220,21 @@ I need to get better at posting every day!
 **Link to twitter:** [DAY 21](hhttps://twitter.com/dmilojkovic76/status/1114718420921200640)
 
 **Link to work:** [Technical Documentatin Page for Vue.JS](https://codepen.io/dmilojkovic76/full/JVKpPG)
+
+
+
+## Day 22: Sunday April 8, 2019
+
+![DAY 22](/img/d022.png)
+
+
+**Today's Progress:**
+* Finished "Personal Portfolio Project" for freeCodeCamp.
+
+**Thoughts:**
+I finished coding the whole thing within a couple of hours, but the design and resources aspect took at least the same time, if not more. 🤔
+
+
+**Link to twitter:** [DAY 22](hhttps://twitter.com/dmilojkovic76/status/1114718420921200640)
+
+**Link to work:** [Personal Portfolio Page](https://codepen.io/dmilojkovic76/full/WWGeXP)
