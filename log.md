@@ -229,12 +229,12 @@ I need to get better at posting every day!
 
 
 **Today's Progress:**
-* Finished "Personal Portfolio Project" for freeCodeCamp.
+* Finished "Personal Portfolio Project" for freeCodeCamp and with that also the "Responsive Web Design" 300hrs course.
 
 **Thoughts:**
 I finished coding the whole thing within a couple of hours, but the design and resources aspect took at least the same time, if not more. 🤔
 
 
-**Link to twitter:** [DAY 22](hhttps://twitter.com/dmilojkovic76/status/1114718420921200640)
+**Link to twitter:** [DAY 22](https://twitter.com/MandrigoTM/status/1115036258185691137)
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/dmilojkovic76/full/WWGeXP)
