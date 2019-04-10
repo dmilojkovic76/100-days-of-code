@@ -205,7 +205,7 @@ I need to get better at posting every day!
 **Link to work:** [Product Landing Page for a Fictional Gym](https://codepen.io/dmilojkovic76/full/gyaYNr)
 
 
-## Day 21: Saturday April 7, 2019
+## Day 21: Saturday April 6, 2019
 
 ![DAY 21](/img/d021.png)
 
@@ -223,7 +223,7 @@ I need to get better at posting every day!
 
 
 
-## Day 22: Sunday April 8, 2019
+## Day 22: Sunday April 7, 2019
 
 ![DAY 22](/img/d022.png)
 
@@ -238,3 +238,35 @@ I finished coding the whole thing within a couple of hours, but the design and r
 **Link to twitter:** [DAY 22](https://twitter.com/MandrigoTM/status/1115036258185691137)
 
 **Link to work:** [Personal Portfolio Page](https://codepen.io/dmilojkovic76/full/WWGeXP)
+
+
+## Day 23: Monday April 8, 2019
+
+
+
+**Today's Progress:**
+* Started "Javascript Algorithms And Data Structures" freeCodeCamp course and went through almost half of the Basic JavaScript section.
+
+**Thoughts:**
+Reviewed some of the code from previous projects because I know i could have done them differently.
+
+
+**Link to twitter:**
+
+**Link to work:**
+
+
+## Day 24: Tuesday April 9, 2019
+
+![DAY 24](/img/d024.png)
+
+**Today's Progress:**
+* Continued with "Javascript Algorithms And Data Structures" freeCodeCamp course and practiced CSS on [CSS Battle](https://cssbattle.dev/).
+
+**Thoughts:**
+I've been reading [p1xt-guides](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-3.0.md) - basically a step by step 'Job Ready' roadmap with projects and courses to work through and it seems like a reaaly good resource. Thanks to [@DianeCodedIt](https://twitter.com/DianeCodedIt) who found it on [r/learnprogramming](www.reddit.com/r/learnprogramming).
+
+
+**Link to twitter:** [DAY 24](https://twitter.com/dmilojkovic76/status/1115784969958371330)
+
+**Link to work:**
