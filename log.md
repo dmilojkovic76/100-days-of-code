@@ -270,3 +270,21 @@ I've been reading [p1xt-guides](https://github.com/P1xt/p1xt-guides/blob/master/
 **Link to twitter:** [DAY 24](https://twitter.com/dmilojkovic76/status/1115784969958371330)
 
 **Link to work:**
+
+
+
+## Day 29: Sunday April 14, 2019
+
+
+**Today's Progress:**
+* Finished Pset2, went through Week 3 of cs50x and working on Pset3.
+* Practiced recursions and Code Kata's and http://adventofcode.com.
+* The highlight was watching Dan from @thecodingtrain battle with Rubick Cube problem.
+
+**Thoughts:**
+Lately I've been only doing Computer Science Theory stuff, so I should get back to doing real life projects as soon as possible.
+
+
+**Link to twitter:** [DAY 29](https://twitter.com/dmilojkovic76/status/1117620001681420289)
+
+**Link to work:**
